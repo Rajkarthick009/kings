@@ -18,6 +18,7 @@ if (Character.isUpperCase(ch)) {
 	
 }else if (Character.isDigit(ch)) {
 	digit=digit+1;
+	System.out.println("sysyout");
 
 	
 }else 	sp=sp+1;
